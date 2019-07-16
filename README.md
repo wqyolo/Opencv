@@ -5,3 +5,5 @@
 使用Opencv实现灰度处理、底板效果、马赛克、毛玻璃效果、图像融合、图片风格、边缘检测、浮雕效果等图像特效。
 具体代码见file:/opencv_image effects.ipynb
 图像特效结果见file:/img2
+
+部分内容通过API和源码实现
